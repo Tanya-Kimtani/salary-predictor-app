@@ -1,3 +1,21 @@
+## 🚀 Project Summary
+
+Built a machine learning model to predict employee salaries based on experience, education, and job role.
+Performed data cleaning, exploratory data analysis, and regression modeling to identify key salary drivers.
+The model helps organizations make data-driven compensation decisions and improve salary benchmarking.
+
+## 🔍 Key Insights
+
+* Experience has the strongest impact on salary growth
+* Certain job roles show significantly higher salary ranges
+* Education level contributes but is less influential than experience
+
+## ▶️ How to Run
+
+1. Install required libraries (pandas, sklearn, matplotlib)
+2. Open the notebook `salary_prediction_analysis.ipynb`
+3. Run all cells to reproduce results
+
 # Salary Prediction Project
 
 ## Overview
